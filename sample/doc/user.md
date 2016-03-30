@@ -9,8 +9,8 @@ User API
 | Name | Type | Description | Example |
 | ------- | ------- | ------- | ------- |
 | **id** | *integer* | unique identifier of user | `1` |
-| **mail** | *string* | unique user email | `"otyoppu@example.com"` |
-| **name** | *string* | user Name | `"otyoppu"` |
+| **mail** | *string* | unique user email | `"entabe@example.com"` |
+| **name** | *string* | user Name | `"entabe"` |
 
 ### User Info
 
@@ -37,8 +37,8 @@ HTTP/1.1 200 OK
 ```json
 {
   "id": 1,
-  "name": "otyoppu",
-  "mail": "otyoppu@example.com"
+  "name": "entabe",
+  "mail": "entabe@example.com"
 }
 ```
 
