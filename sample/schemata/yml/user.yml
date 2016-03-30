@@ -15,17 +15,17 @@ definitions:
     - integer
   name:
     description: user Name
-    example: 'otyoppu'
+    example: 'entabe'
     type:
     - string
   mail:
     description: unique user email
-    example: 'otyoppu@example.com'
+    example: 'entabe@example.com'
     type:
     - string
   password:
     description: user password
-    example: 'hogefugapiyo'
+    example: 'testest'
     type:
     - string
   identity:
